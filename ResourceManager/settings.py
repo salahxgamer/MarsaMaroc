@@ -14,6 +14,11 @@ import django_heroku
 
 from pathlib import Path
 
+import environ
+# Initialise environment variables
+env = environ.Env()
+environ.Env.read_env()
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -149,13 +154,13 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
 
-EMAIL_HOST = "smtp.mailtrap.io"
-EMAIL_PORT = "2525"
-EMAIL_USE_TLS = True
-EMAIL_HOST_USER = "54cb605772a886"
-EMAIL_HOST_PASSWORD = "db46efdf58c1bb"
+EMAIL_HOST = env.str('EMAIL_HOST', default="smtp.mailtrap.io")
+EMAIL_PORT = env.str('EMAIL_PORT', default="2525")
+EMAIL_USE_TLS = env.str('EMAIL_USE_TLS', default=True)
+EMAIL_HOST_USER = env.str('EMAIL_HOST_USER', default="54cb605772a886")
+EMAIL_HOST_PASSWORD = env.str('EMAIL_HOST_PASSWORD', default="db46efdf58c1bb")
 
-DEFAULT_FROM_EMAIL = "MarsaMaroc@localhost"
+DEFAULT_FROM_EMAIL = env.str('DEFAULT_FROM_EMAIL', default="MarsaMaroc@localhost")
 
 
 # Activate Django-Heroku.
