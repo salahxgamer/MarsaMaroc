@@ -1,3 +1,9 @@
 {
-    "python.pythonPath": "C:\\Users\\SalahXG\\.virtualenvs\\ResourceManager-JcSZXlJ_\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\SalahXG\\.virtualenvs\\ResourceManager-JcSZXlJ_\\Scripts\\python.exe",
+    "python.formatting.provider": "black",
+    "html.format.templating": true,
+    "editor.formatOnSave": true,
+    "[django-html]": {
+        "editor.formatOnSave": false
+    }
 }

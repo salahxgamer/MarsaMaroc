@@ -1,0 +1,1404 @@
+[
+  {
+    "model": "manager.Resource",
+    "pk": 1,
+    "fields": {
+      "name": "Protege",
+      "description": "Protege",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-10-22T18:16:48Z",
+      "assigned_at": "2020-12-10T19:18:10Z",
+      "shift": 3,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 2,
+    "fields": {
+      "name": "Corvair ",
+      "description": "Corvair ",
+      "description": "Corvair ",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-07-05T20:35:22Z",
+      "assigned_at": "2021-04-19T10:10:14Z",
+      "shift": 3,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 3,
+    "fields": {
+      "name": "IS",
+      "description": "IS",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-02-21T12:35:09Z",
+      "assigned_at": "2021-07-10T06:53:05Z",
+      "shift": 2,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 4,
+    "fields": {
+      "name": "599 GTB Fiorano",
+      "description": "599 GTB Fiorano",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-08-15T14:03:00Z",
+      "assigned_at": "2020-12-19T02:02:38Z",
+      "shift": 2,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 5,
+    "fields": {
+      "name": "IS",
+      "description": "IS",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-10-15T19:58:27Z",
+      "assigned_at": "2021-04-21T02:02:36Z",
+      "shift": 1,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 6,
+    "fields": {
+      "name": "G-Series G",
+      "description": "G-Series G",
+      "description": "G-Series G",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-09-16T02:03:14Z",
+      "assigned_at": "2021-04-26T22:32:50Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 7,
+    "fields": {
+      "name": "Grand Prix",
+      "description": "Grand Prix",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-03-24T10:22:39Z",
+      "assigned_at": "2020-11-18T14:56:57Z",
+      "shift": 3,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 8,
+    "fields": {
+      "name": "626",
+      "description": "626",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-11-19T13:15:18Z",
+      "assigned_at": "2021-04-08T20:45:11Z",
+      "shift": 3,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 9,
+    "fields": {
+      "name": "Eldorado",
+      "description": "Eldorado",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-03-10T19:32:29Z",
+      "assigned_at": "2021-07-18T18:57:52Z",
+      "shift": 2,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 10,
+    "fields": {
+      "name": "Pilot",
+      "description": "Pilot",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-03-30T21:33:53Z",
+      "assigned_at": "2021-04-16T12:07:05Z",
+      "shift": 2,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 11,
+    "fields": {
+      "name": "Oasis",
+      "description": "Oasis",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-05-15T21:11:08Z",
+      "assigned_at": "2021-07-03T13:45:14Z",
+      "shift": 1,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 12,
+    "fields": {
+      "name": "Aztek",
+      "description": "Aztek",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-10-22T22:59:36Z",
+      "assigned_at": "2020-08-09T09:54:18Z",
+      "shift": 2,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 13,
+    "fields": {
+      "name": "SL-Class",
+      "description": "SL-Class",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-09-13T19:13:15Z",
+      "assigned_at": "2021-01-29T15:41:43Z",
+      "shift": 1,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 14,
+    "fields": {
+      "name": "RS4",
+      "description": "RS4",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-10-28T10:33:51Z",
+      "assigned_at": "2020-12-08T08:57:33Z",
+      "shift": 3,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 15,
+    "fields": {
+      "name": "Range Rover Sport",
+      "description": "Range Rover Sport",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-04-14T02:30:44Z",
+      "assigned_at": "2020-09-29T17:23:41Z",
+      "shift": 1,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 16,
+    "fields": {
+      "name": "Jetta",
+      "description": "Jetta",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-07-23T21:16:29Z",
+      "assigned_at": "2021-03-15T08:42:57Z",
+      "shift": 3,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 17,
+    "fields": {
+      "name": "LaCrosse",
+      "description": "LaCrosse",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-05-29T18:14:34Z",
+      "assigned_at": "2020-09-15T12:43:19Z",
+      "shift": 2,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 18,
+    "fields": {
+      "name": "Edge",
+      "description": "Edge",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-11-12T07:57:35Z",
+      "assigned_at": "2021-04-01T15:29:31Z",
+      "shift": 2,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 19,
+    "fields": {
+      "name": "Prius",
+      "description": "Prius",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-01-17T05:40:00Z",
+      "assigned_at": "2020-11-05T18:51:10Z",
+      "shift": 1,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 20,
+    "fields": {
+      "name": "3 Series",
+      "description": "3 Series",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-06-05T12:31:23Z",
+      "assigned_at": "2021-02-23T04:09:21Z",
+      "shift": 3,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 21,
+    "fields": {
+      "name": "FJ Cruiser",
+      "description": "FJ Cruiser",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-10-27T18:00:10Z",
+      "assigned_at": "2020-10-16T07:31:49Z",
+      "shift": 3,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 22,
+    "fields": {
+      "name": "Rally Wagon G2500",
+      "description": "Rally Wagon G2500",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-09-17T12:29:21Z",
+      "assigned_at": "2021-05-02T02:24:17Z",
+      "shift": 2,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 23,
+    "fields": {
+      "name": "Continental",
+      "description": "Continental",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-05-02T08:03:09Z",
+      "assigned_at": "2020-11-11T21:57:42Z",
+      "shift": 1,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 24,
+    "fields": {
+      "name": "Phantom",
+      "description": "Phantom",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-05-28T07:36:38Z",
+      "assigned_at": "2020-10-31T00:10:44Z",
+      "shift": 1,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 25,
+    "fields": {
+      "name": "Murano",
+      "description": "Murano",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-12-03T05:32:42Z",
+      "assigned_at": "2021-06-23T02:51:37Z",
+      "shift": 1,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 26,
+    "fields": {
+      "name": "Mirage",
+      "description": "Mirage",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-09-08T19:23:43Z",
+      "assigned_at": "2020-09-17T12:46:50Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 27,
+    "fields": {
+      "name": "Titan",
+      "description": "Titan",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-11-17T23:38:42Z",
+      "assigned_at": "2021-01-12T11:20:07Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 28,
+    "fields": {
+      "name": "S-Series",
+      "description": "S-Series",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-01-18T06:53:46Z",
+      "assigned_at": "2020-07-30T07:11:55Z",
+      "shift": 2,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 29,
+    "fields": {
+      "name": "6000",
+      "description": "6000",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-01-17T00:53:20Z",
+      "assigned_at": "2021-02-04T14:08:34Z",
+      "shift": 3,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 30,
+    "fields": {
+      "name": "Fiero",
+      "description": "Fiero",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-03-06T21:52:04Z",
+      "assigned_at": "2021-02-07T18:57:25Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 31,
+    "fields": {
+      "name": "Savana 3500",
+      "description": "Savana 3500",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-03-27T04:54:19Z",
+      "assigned_at": "2021-06-28T16:43:13Z",
+      "shift": 2,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 32,
+    "fields": {
+      "name": "Fit",
+      "description": "Fit",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-08-20T21:33:24Z",
+      "assigned_at": "2020-10-15T13:18:23Z",
+      "shift": 3,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 33,
+    "fields": {
+      "name": "6 Series",
+      "description": "6 Series",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-06-20T04:06:59Z",
+      "assigned_at": "2020-09-14T14:00:54Z",
+      "shift": 1,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 34,
+    "fields": {
+      "name": "Mighty Max",
+      "description": "Mighty Max",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-06-05T18:22:44Z",
+      "assigned_at": "2021-07-20T03:12:27Z",
+      "shift": 3,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 35,
+    "fields": {
+      "name": "Camry",
+      "description": "Camry",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-01-21T13:54:16Z",
+      "assigned_at": "2021-05-02T20:13:31Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 36,
+    "fields": {
+      "name": "E-Class",
+      "description": "E-Class",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-04-28T06:12:38Z",
+      "assigned_at": "2021-07-19T19:21:17Z",
+      "shift": 2,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 37,
+    "fields": {
+      "name": "Sportage",
+      "description": "Sportage",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-11-15T02:27:52Z",
+      "assigned_at": "2020-08-04T21:54:23Z",
+      "shift": 2,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 38,
+    "fields": {
+      "name": "Corrado",
+      "description": "Corrado",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-08-09T12:53:21Z",
+      "assigned_at": "2021-06-23T02:50:34Z",
+      "shift": 2,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 39,
+    "fields": {
+      "name": "Durango",
+      "description": "Durango",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-10-19T04:41:02Z",
+      "assigned_at": "2021-02-17T00:51:17Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 40,
+    "fields": {
+      "name": "G35",
+      "description": "G35",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-02-15T21:06:54Z",
+      "assigned_at": "2020-09-02T12:40:18Z",
+      "shift": 1,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 41,
+    "fields": {
+      "name": "Altima",
+      "description": "Altima",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-04-04T02:50:37Z",
+      "assigned_at": "2021-04-01T08:09:49Z",
+      "shift": 3,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 42,
+    "fields": {
+      "name": "Mountaineer",
+      "description": "Mountaineer",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-01-21T20:50:57Z",
+      "assigned_at": "2020-11-04T22:03:30Z",
+      "shift": 3,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 43,
+    "fields": {
+      "name": "Protege5",
+      "description": "Protege5",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-09-29T02:54:34Z",
+      "assigned_at": "2021-03-10T18:32:51Z",
+      "shift": 3,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 44,
+    "fields": {
+      "name": "Mazda5",
+      "description": "Mazda5",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-12-10T21:58:59Z",
+      "assigned_at": "2020-08-31T08:40:37Z",
+      "shift": 3,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 45,
+    "fields": {
+      "name": "Lancer",
+      "description": "Lancer",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-01-02T19:59:31Z",
+      "assigned_at": "2021-06-02T17:45:52Z",
+      "shift": 1,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 46,
+    "fields": {
+      "name": "Camry",
+      "description": "Camry",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-10-02T09:32:18Z",
+      "assigned_at": "2021-04-22T06:56:16Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 47,
+    "fields": {
+      "name": "Monterey",
+      "description": "Monterey",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-11-07T14:13:15Z",
+      "assigned_at": "2020-11-30T22:32:58Z",
+      "shift": 3,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 48,
+    "fields": {
+      "name": "CLS-Class",
+      "description": "CLS-Class",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-04-12T12:02:47Z",
+      "assigned_at": "2021-02-16T09:42:24Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 49,
+    "fields": {
+      "name": "Pajero",
+      "description": "Pajero",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-06-14T05:37:40Z",
+      "assigned_at": "2021-06-28T10:15:52Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 50,
+    "fields": {
+      "name": "Stratus",
+      "description": "Stratus",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-01-08T04:14:14Z",
+      "assigned_at": "2020-10-01T06:33:42Z",
+      "shift": 2,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 51,
+    "fields": {
+      "name": "Landaulet",
+      "description": "Landaulet",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-03-13T03:58:35Z",
+      "assigned_at": "2021-06-23T06:55:06Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 52,
+    "fields": {
+      "name": "Cordia",
+      "description": "Cordia",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-03-28T12:59:53Z",
+      "assigned_at": "2021-03-16T04:29:10Z",
+      "shift": 1,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 53,
+    "fields": {
+      "name": "Continental Super",
+      "description": "Continental Super",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-06-14T06:10:44Z",
+      "assigned_at": "2021-06-18T09:14:59Z",
+      "shift": 3,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 54,
+    "fields": {
+      "name": "CX-9",
+      "description": "CX-9",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-01-13T15:12:18Z",
+      "assigned_at": "2021-05-06T11:56:58Z",
+      "shift": 2,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 55,
+    "fields": {
+      "name": "Voyager",
+      "description": "Voyager",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-07-09T00:00:51Z",
+      "assigned_at": "2020-11-27T02:01:57Z",
+      "shift": 1,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 56,
+    "fields": {
+      "name": "F350",
+      "description": "F350",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-05-01T06:43:51Z",
+      "assigned_at": "2021-04-27T00:09:44Z",
+      "shift": 3,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 57,
+    "fields": {
+      "name": "Sequoia",
+      "description": "Sequoia",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-02-26T11:13:12Z",
+      "assigned_at": "2020-08-22T23:49:45Z",
+      "shift": 3,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 58,
+    "fields": {
+      "name": "B2600",
+      "description": "B2600",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-04-26T04:59:54Z",
+      "assigned_at": "2021-06-19T02:49:46Z",
+      "shift": 3,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 59,
+    "fields": {
+      "name": "Tahoe",
+      "description": "Tahoe",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-09-22T23:06:57Z",
+      "assigned_at": "2020-11-01T00:59:30Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 60,
+    "fields": {
+      "name": "Lancer Evolution",
+      "description": "Lancer Evolution",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-06-17T09:36:44Z",
+      "assigned_at": "2020-08-25T11:17:22Z",
+      "shift": 1,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 61,
+    "fields": {
+      "name": "MPV",
+      "description": "MPV",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-01-08T14:18:42Z",
+      "assigned_at": "2021-03-20T05:57:57Z",
+      "shift": 2,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 62,
+    "fields": {
+      "name": "MKZ",
+      "description": "MKZ",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-03-04T01:56:21Z",
+      "assigned_at": "2020-11-15T10:31:14Z",
+      "shift": 2,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 63,
+    "fields": {
+      "name": "SLR McLaren",
+      "description": "SLR McLaren",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-03-30T23:49:28Z",
+      "assigned_at": "2020-11-20T00:41:54Z",
+      "shift": 1,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 64,
+    "fields": {
+      "name": "Vigor",
+      "description": "Vigor",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-12-23T19:26:25Z",
+      "assigned_at": "2021-05-15T04:29:10Z",
+      "shift": 1,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 65,
+    "fields": {
+      "name": "Prizm",
+      "description": "Prizm",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-11-20T13:42:10Z",
+      "assigned_at": "2021-03-09T10:09:25Z",
+      "shift": 1,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 66,
+    "fields": {
+      "name": "Windstar",
+      "description": "Windstar",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-05-12T05:38:23Z",
+      "assigned_at": "2021-03-31T00:56:02Z",
+      "shift": 2,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 67,
+    "fields": {
+      "name": "3500",
+      "description": "3500",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-02-19T07:46:05Z",
+      "assigned_at": "2021-07-01T01:18:38Z",
+      "shift": 1,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 68,
+    "fields": {
+      "name": "Caprice Classic",
+      "description": "Caprice Classic",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-03-22T08:44:24Z",
+      "assigned_at": "2020-12-05T02:49:18Z",
+      "shift": 3,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 69,
+    "fields": {
+      "name": "3500",
+      "description": "3500",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-10-17T05:40:15Z",
+      "assigned_at": "2020-11-29T19:03:48Z",
+      "shift": 2,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 70,
+    "fields": {
+      "name": "Aurora",
+      "description": "Aurora",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-10-14T13:18:24Z",
+      "assigned_at": "2020-09-16T20:22:34Z",
+      "shift": 1,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 71,
+    "fields": {
+      "name": "LS",
+      "description": "LS",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-05-29T14:11:46Z",
+      "assigned_at": "2021-01-11T09:16:47Z",
+      "shift": 3,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 72,
+    "fields": {
+      "name": "Mirage",
+      "description": "Mirage",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-06-17T15:33:44Z",
+      "assigned_at": "2020-09-30T03:33:38Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 73,
+    "fields": {
+      "name": "Mustang",
+      "description": "Mustang",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-02-02T23:31:42Z",
+      "assigned_at": "2021-06-23T02:39:01Z",
+      "shift": 3,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 74,
+    "fields": {
+      "name": "X6",
+      "description": "X6",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-10-18T01:46:05Z",
+      "assigned_at": "2021-06-30T02:30:47Z",
+      "shift": 1,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 75,
+    "fields": {
+      "name": "Firebird",
+      "description": "Firebird",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-06-06T13:08:29Z",
+      "assigned_at": "2021-04-07T00:50:09Z",
+      "shift": 2,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 76,
+    "fields": {
+      "name": "Eos",
+      "description": "Eos",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-01-07T01:15:13Z",
+      "assigned_at": "2020-09-17T23:32:28Z",
+      "shift": 1,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 77,
+    "fields": {
+      "name": "Sundance",
+      "description": "Sundance",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-09-18T18:14:44Z",
+      "assigned_at": "2020-11-30T19:49:02Z",
+      "shift": 2,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 78,
+    "fields": {
+      "name": "Golf",
+      "description": "Golf",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-08-16T15:14:50Z",
+      "assigned_at": "2021-03-10T07:20:22Z",
+      "shift": 2,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 79,
+    "fields": {
+      "name": "MR2",
+      "description": "MR2",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-05-12T19:04:17Z",
+      "assigned_at": "2020-10-09T08:42:49Z",
+      "shift": 2,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 80,
+    "fields": {
+      "name": "XF",
+      "description": "XF",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-06-08T04:22:50Z",
+      "assigned_at": "2020-09-24T21:41:20Z",
+      "shift": 1,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 81,
+    "fields": {
+      "name": "A4",
+      "description": "A4",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-09-17T05:56:32Z",
+      "assigned_at": "2020-09-12T01:44:00Z",
+      "shift": 2,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 82,
+    "fields": {
+      "name": "Voyager",
+      "description": "Voyager",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-01-20T14:21:43Z",
+      "assigned_at": "2021-06-20T04:31:16Z",
+      "shift": 2,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 83,
+    "fields": {
+      "name": "911",
+      "description": "911",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-10-27T18:59:33Z",
+      "assigned_at": "2020-11-27T22:22:35Z",
+      "shift": 3,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 84,
+    "fields": {
+      "name": "Savana 3500",
+      "description": "Savana 3500",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-12-14T22:58:29Z",
+      "assigned_at": "2020-11-01T21:02:37Z",
+      "shift": 2,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 85,
+    "fields": {
+      "name": "3500",
+      "description": "3500",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-11-19T21:22:43Z",
+      "assigned_at": "2021-05-19T09:31:48Z",
+      "shift": 2,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 86,
+    "fields": {
+      "name": "RAV4",
+      "description": "RAV4",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-09-19T03:02:02Z",
+      "assigned_at": "2020-11-24T18:32:40Z",
+      "shift": 2,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 87,
+    "fields": {
+      "name": "Vandura G1500",
+      "description": "Vandura G1500",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-05-04T13:48:19Z",
+      "assigned_at": "2021-03-30T07:56:30Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 88,
+    "fields": {
+      "name": "Cabriolet",
+      "description": "Cabriolet",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-01-22T01:55:09Z",
+      "assigned_at": "2021-03-13T18:41:30Z",
+      "shift": 1,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 89,
+    "fields": {
+      "name": "i-280",
+      "description": "i-280",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-04-12T01:55:08Z",
+      "assigned_at": "2020-11-11T08:05:37Z",
+      "shift": 1,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 90,
+    "fields": {
+      "name": "Century",
+      "description": "Century",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-08-02T04:37:55Z",
+      "assigned_at": "2021-04-26T14:00:15Z",
+      "shift": 3,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 91,
+    "fields": {
+      "name": "Camaro",
+      "description": "Camaro",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-05-21T06:26:53Z",
+      "assigned_at": "2021-05-24T05:36:25Z",
+      "shift": 2,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 92,
+    "fields": {
+      "name": "Armada",
+      "description": "Armada",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-03-10T13:43:40Z",
+      "assigned_at": "2020-08-11T05:51:01Z",
+      "shift": 2,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 93,
+    "fields": {
+      "name": "Altima",
+      "description": "Altima",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-05-14T13:48:25Z",
+      "assigned_at": "2021-04-08T17:15:32Z",
+      "shift": 3,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 94,
+    "fields": {
+      "name": "612 Scaglietti",
+      "description": "612 Scaglietti",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-12-17T13:16:34Z",
+      "assigned_at": "2021-05-08T17:48:17Z",
+      "shift": 3,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 95,
+    "fields": {
+      "name": "Nubira",
+      "description": "Nubira",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-12-22T17:00:00Z",
+      "assigned_at": "2021-06-04T16:28:15Z",
+      "shift": 3,
+      "merchandise": 1
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 96,
+    "fields": {
+      "name": "57S",
+      "description": "57S",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-08-16T01:27:17Z",
+      "assigned_at": "2021-01-02T18:53:03Z",
+      "shift": 2,
+      "merchandise": 4
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 97,
+    "fields": {
+      "name": "Frontier",
+      "description": "Frontier",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-07-22T09:26:42Z",
+      "assigned_at": "2021-04-27T20:49:52Z",
+      "shift": 2,
+      "merchandise": 2
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 98,
+    "fields": {
+      "name": "Corvette",
+      "description": "Corvette",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-10-14T14:00:32Z",
+      "assigned_at": "2021-06-10T12:18:13Z",
+      "shift": 3,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 99,
+    "fields": {
+      "name": "4Runner",
+      "description": "4Runner",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2021-02-01T01:19:31Z",
+      "assigned_at": "2021-01-05T20:56:14Z",
+      "shift": 2,
+      "merchandise": 3
+    }
+  },
+  {
+    "model": "manager.Resource",
+    "pk": 10,
+    "fields": {
+      "name": "Diamante",
+      "description": "Diamante",
+      "created_at": "2021-07-26T00:00:00.000Z",
+      "modified_at": "2021-07-26T00:00:00.000Z",
+      "arrived_at": "2020-12-28T21:18:06Z",
+      "assigned_at": "2021-03-14T19:07:43Z",
+      "shift": 1,
+      "merchandise": 3
+    }
+  }
+]
