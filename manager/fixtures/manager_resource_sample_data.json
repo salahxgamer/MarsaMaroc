@@ -1,5 +1,23 @@
 [
   {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$i3nVbAJWlciNYvzM168N13$WEo0cdtbUM7X685k5GBUi9xxKtkSmz2Cp6m/aG6OcMc=",
+      "last_login": "2021-07-27T21:18:06.023Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "salah.eddine.amhil@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2021-07-27T21:17:57.149Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
     "model": "manager.Resource",
     "pk": 1,
     "fields": {
