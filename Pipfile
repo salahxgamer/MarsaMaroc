@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 django = "*"
 django-heroku = "*"
+django-admin-interface = "*"
 
 [dev-packages]
 autopep8 = "*"
