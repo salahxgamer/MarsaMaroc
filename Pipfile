@@ -8,6 +8,7 @@ django = "*"
 django-heroku = "*"
 django-admin-interface = "*"
 gunicorn = "*"
+django-environ = "*"
 
 [dev-packages]
 autopep8 = "*"
