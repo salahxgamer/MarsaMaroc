@@ -39,7 +39,7 @@ Install project dependencies:
 
     $ pipenv install -r requirements.txt
 
-    or
+or
     
     $ pip install -r requirements.txt
 
