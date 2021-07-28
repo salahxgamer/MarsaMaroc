@@ -37,8 +37,11 @@ Activate the virtualenv for your project.
   
 Install project dependencies:
 
-    $ pipenv install
+    $ pipenv install -r requirements.txt
+
+    or
     
+    $ pip install -r requirements.txt
 
 ## Setup server
 
