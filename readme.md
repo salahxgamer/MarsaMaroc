@@ -1,5 +1,5 @@
 
-# {{ project_name|title }}
+# MarsaMaroc Resource Manager
 # Introduction
 
 This is a prototype website to manage resources for Marsa Maroc Company, it's build based on Python (3.5) using the Django framework with other minor libraries and sql database.
@@ -24,8 +24,8 @@ The result is a dynamic, smooth and responsive website that allows entering and 
 
 First clone the repository from Github and switch to the new directory:
 
-    $ git clone git@github.com/USERNAME/{{ project_name }}.git
-    $ cd {{ project_name }}
+    $ git clone git@github.com/USERNAME/MarsaMaroc.git
+    $ cd MarsaMaroc
 
 ## Setup virtual environnement
 Create the virtual environnement by running:
