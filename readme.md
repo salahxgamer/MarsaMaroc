@@ -45,6 +45,7 @@ Install project dependencies:
 Then simply apply the migrations:
 
     $ python manage.py migrate
+    $ python manage.py loaddata initial_data.json
 
 
 Collect static files by:
